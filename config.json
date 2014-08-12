@@ -1,0 +1,10 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "aperio": {
+    "hostname": "images.pathology.umn.edu",
+    "username": "aperio-username",
+    "password": "aperio-password"
+  }
+}
